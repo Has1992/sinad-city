@@ -1,4 +1,14 @@
-# sinad-city
-sinad.city
+# sinad-city 🎉
+بطاقات تهنئة إلكترونية لمدينة سناد
 
-[my-cards-site-full.zip](https://github.com/user-attachments/files/19495877/my-cards-site-full.zip)
+🌐 موقع مباشر: [زيارة الموقع](https://sinad-city.netlify.app)
+
+📁 مجلد المشروع: `my-cards-site-full`
+
+📦 لتحميل النسخة الكاملة:
+[sinad-cards-site.zip](https://sinad-city.netlify.app/sinad-cards-site.zip)
+
+---
+
+📌 **الوصف:**
+موقع تفاعلي لكتابة اسمك على بطاقة
